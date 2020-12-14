@@ -4,6 +4,89 @@
   
     
     <entry>
+      <title>SGG领域论文整理(持续更新)</title>
+      <link href="2020/12/14/SGG-Field-Prof/"/>
+      <url>2020/12/14/SGG-Field-Prof/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="SGG-综述"><a href="#SGG-综述" class="headerlink" title="SGG 综述"></a>SGG 综述</h2><hr><ul><li><a href="https://arxiv.org/abs/2005.08045"><strong><em>“Visual Relationship Detection using Scene Graphs: A Survey”</em></strong></a><blockquote><p>arXiv检索2020</p><p><a href="https://scholar.google.com/citations?user=oPzYPK0AAAAJ&hl=en">Aniket Agarwal</a> <br><a href="https://vlgiitr.github.io/author/ayush-mangal/">Ayush Mangal</a> <br><a href="https://www.cs.cmu.edu/~goyal/">Vipul</a></p></blockquote></li></ul><h2 id="SGG-论文"><a href="#SGG-论文" class="headerlink" title="SGG 论文"></a>SGG 论文</h2><hr><ul><li><p><a href="https://arxiv.org/abs/1701.02426"><strong><em>“Scene graph generation by iterative message passing”</em></strong></a></p><blockquote><p>CVPR 2017 </p><p><a href="https://cs.stanford.edu/~danfei/">Danfei Xu</a> <br><a href="https://www.cs.utexas.edu/~yukez/">Yuke Zhu</a>  <br><a href="https://chrischoy.github.io/">Christopher B. Choy</a> <br><a href="https://profiles.stanford.edu/fei-fei-li">Li Fei-Fei </a></p><p><a href="https://cs.stanford.edu/">Department of Computer Science, Stanford University </a> <br><a href="http://vision.stanford.edu/">Stanford Computer Vision Lab</a></p></blockquote></li><li><p><a href="https://arxiv.org/abs/1704.03114"><strong><em>“Detecting visual relationships with deep relational networks”</em></strong></a></p><blockquote><p>CVPR 2017 oral paper</p><p><a href="http://daibo.info/">Bo Dai</a>   <br>Yuqi Zhang <br><a href="http://dahua.me/">Dahua Lin</a>  </p><p><a href="https://www.ie.cuhk.edu.hk/people/graduate_students.shtml">Department of Information Engineering, The Chinese University of Hong Kong</a></p></blockquote></li><li><p><a href="https://arxiv.org/abs/1707.09700"><strong><em>“Scene graph generation from objects, phrases and region captions”</em></strong></a></p><blockquote><p> ICCV 2017</p><p><a href="http://cvboy.com/">Yikang Li</a> <br><a href="https://wlouyang.github.io/">Wanli Ouyang</a> <br><a href="http://bzhou.ie.cuhk.edu.hk/">Bolei Zhou</a> <br>Kun Wang <br><a href="https://www.ee.cuhk.edu.hk/~xgwang/">Xiaogang Wang</a>  </p><p>The Chinese University of Hong Kong, Hong Kong SAR, China</p></blockquote></li><li><p><a href="https://arxiv.org/abs/1806.11538"><strong><em>“Factorizable net: an efficient subgraph-based framework for scene graph generation”</em></strong></a></p><blockquote><p>ECCV 2018 </p><p><a href="http://cvboy.com/">Yikang Li</a> <br><a href="https://wlouyang.github.io/">Wanli Ouyang</a>Wanli Ouyang  <br><a href="http://bzhou.ie.cuhk.edu.hk/">Bolei Zhou</a>  <br>Jianping Shi <br>Chao Zhang <br><a href="https://www.ee.cuhk.edu.hk/~xgwang/">Xiaogang Wang</a> </p><p>The Chinese University of Hong Kong, Hong Kong SAR, China</p></blockquote></li><li><p><a href="https://arxiv.org/abs/1711.06640"><strong><em>“Neural motifs: Scene graph parsing with global context”</em></strong></a></p><blockquote><p>CVPR 2018 camera ready</p><p><a href="https://rowanzellers.com/">Rowan Zellers</a> <br><a href="http://markyatskar.com/">Mark Yatskar</a> <br><a href="http://samthomson.com/">Sam Thomson</a> <br><a href="https://homes.cs.washington.edu/~yejin/">Yejin Choi</a></p><p><a href="https://www.cs.washington.edu/">Paul G. Allen School of Computer Science &amp; Engineering, University of Washington</a></p></blockquote></li><li><p><a href="https://arxiv.org/abs/1808.00191"><strong><em>“Graph r-cnn for scene graph generation”</em></strong></a></p><blockquote><p>ECCV 2018 camera ready</p><p><a href="https://www.cc.gatech.edu/~jyang375/">Jianwei Yang</a>  <br><a href="https://www.cc.gatech.edu/~jlu347/">Jiasen Lu</a> <br><a href="http://web.engr.oregonstate.edu/~leestef/">Stefan Lee</a> <br><a href="https://www.cc.gatech.edu/~dbatra/">Dhruv Batra</a> <br><a href="https://www.cc.gatech.edu/~parikh/">Devi Parikh</a></p><p><a href="https://www.gatech.edu/">Georgia Institute of Technology</a></p></blockquote></li><li><p><a href="https://arxiv.org/abs/1903.03326"><strong><em>“Knowledge-embedded routing network for scene graph generation”</em></strong></a></p><blockquote><p>CVPR 2019<br><a href="http://tianshuichen.com/">Tianshui Chen</a> <br><a href="https://whyu.me/">Weihao Yu</a> <br><a href="https://deepai.org/profile/riquan-chen">Riquan Chen</a> <br><a href="http://www.linliang.net/">Liang Lin</a></p><p>Sun Yat-Sen University DarkMatter AI Research</p></blockquote></li></ul><ul><li><a href="https://www.semanticscholar.org/paper/Graphical-Contrastive-Losses-for-Scene-Graph-Zhang-Shih/debca9b7eccca1c1b704df0fbe187f56cd869842"><strong><em>“Graphical contrastive losses for scene graph parsing”</em></strong></a><blockquote><p>CVPR 2019</p><p><a href="https://www.researchgate.net/profile/Ji_Zhang63">Ji Zhang</a> <br><a href="https://www.kevinjshih.com/">Kevin J. Shih</a> <br><a href="https://sites.rutgers.edu/ahmed-elgammal/">Ahmed Elgammal</a> <br><a href="https://scholar.google.com/citations?user=Wel9l1wAAAAJ&hl=en">Andrew Tao</a> <br><a href="https://ctnzr.io/publications/">Bryan Catanzaro</a></p><p>Department of Computer Science, Rutgers University</p></blockquote></li></ul><ul><li><p><a href="https://arxiv.org/abs/1812.01880"><strong><em>“Learning to compose dynamic tree structures for visual contexts”</em></strong></a></p><blockquote><p>CVPR 2019</p><p><a href="https://kaihuatang.github.io/">Kaihua Tang</a> <br><a href="https://www.researchgate.net/scientific-contributions/Hanwang-Zhang-2144620148">Hanwang Zhang</a> <br><a href="https://sds.cuhk.edu.cn/teacher/322">Baoyuan Wu</a> <br><a href="https://whluo.github.io/">Wenhan Luo</a> <br><a href="https://sse.cuhk.edu.cn/en/faculty/liuwei">Wei Liu</a></p></blockquote></li><li><p><a href="https://arxiv.org/abs/1904.00560"><strong><em>“Scene graph generation with external knowledge and image reconstruction”</em></strong></a></p><blockquote><p>CVPR 2019</p><p><a href="https://gujiuxiang.com/">Jiuxiang Gu</a> <br><a href="https://hdzhao.github.io/">Handong Zhao</a> <br><a href="https://research.adobe.com/person/zhe-lin/">Zhe Lin</a> <br><a href="http://cobweb.cs.uga.edu/~shengli/">Sheng Li</a> <br><a href="https://research.monash.edu/en/persons/jianfei-cai">Jianfei Cai</a> <br><a href="https://gujiuxiang.com/authors/mingyang-ling/">Mingyang Ling</a></p><p>ROSE Lab, Interdisciplinary Graduate School, Nanyang Technological University, Singapore</p></blockquote></li><li><p><a href="https://arxiv.org/abs/1904.11622"><strong><em>“Scene graph prediction with limited labels”</em></strong></a></p><blockquote><p>ICCV 2019</p><p><a href="https://vincentsc.com/">Vincent S. Chen</a> <br><a href="https://www.paroma.xyz/">Paroma Varma</a> <br><a href="http://www.ranjaykrishna.com/index.html">Ranjay Krishna</a> <br><a href="https://hci.stanford.edu/msb/">Michael Bernstein</a> <br><a href="https://cs.stanford.edu/~chrismre/">Christopher Re</a> <br><a href="https://profiles.stanford.edu/fei-fei-li">Li Fei-Fei </a></p><p>Stanford University</p></blockquote></li><li><p><a href="https://arxiv.org/abs/1812.02347"><strong><em>“Counterfactual critic multi-agent training for scene graph generation”</em></strong></a></p><blockquote><p>ICCV 2019 (oral)</p><p><a href="https://zjuchenlong.github.io/">Long Chen</a> <br><a href="https://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=hanwangzhang&CategoryDescription=Mathematics">Hanwang Zhang</a> \ (<a href="https://www.researchgate.net/scientific-contributions/Hanwang-Zhang-2144620148">https://www.researchgate.net/scientific-contributions/Hanwang-Zhang-2144620148</a>)  \ (<a href="https://dl.acm.org/profile/83358928557">https://dl.acm.org/profile/83358928557</a>) <br><a href="https://person.zju.edu.cn/junx#0">Jun Xiao</a> <br><a href="http://staff.ustc.edu.cn/~hexn/">Xiangnan He</a> <br><a href="https://dl.acm.org/profile/99658666631">Shiliang Pu</a> \ (<a href="https://www.researchgate.net/scientific-contributions/Shiliang-Pu-2116850663">https://www.researchgate.net/scientific-contributions/Shiliang-Pu-2116850663</a>) <br><a href="https://www.ee.columbia.edu/~sfchang/">Shih-Fu Chang</a></p><p>DCD Lab, College of Computer Science and Technology, Zhejiang University</p></blockquote></li><li><p><a href="https://cs.stanford.edu/people/ranjaykrishna/graphfunctions/index.html"><strong><em>“Visual Relationships as Functions: Enabling Few-Shot Scene Graph Predictio”</em></strong></a></p></li><li><p><a href="https://arxiv.org/abs/1906.04876"><strong><em>“Learning Predicates as Functions to Enable Few-shot Scene Graph Prediction” arXiv检索</em></strong></a>  </p><blockquote><p>ICCV 2019 workshop</p><p><a href="https://dblp.org/pid/242/9136.html">Apoorva Dornadula</a> <br><a href="https://www.researchgate.net/scientific-contributions/Austin-Narcomey-2155538242">Austin Narcomey </a><br><a href="http://www.ranjaykrishna.com/index.html">Ranjay Krishna</a> <br><a href="https://hci.stanford.edu/msb/">Michael Bernstein</a> <br><a href="https://profiles.stanford.edu/fei-fei-li">Li Fei-Fei </a></p><p>Stanford University</p></blockquote></li><li><p><a href="https://arxiv.org/abs/2002.11949"><strong><em>“Unbiased Scene Graph Generation from Biased Training”</em></strong></a></p><blockquote><p>CVPR 2020</p><p><a href="https://kaihuatang.github.io/">Kaihua Tang</a> <br><a href="https://yuleiniu.github.io/">Yulei Niu</a> <br>Jianqiang Huang <br><a href="http://jiaxins.io/">Jiaxin Shi</a> <br><a href="https://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=hanwangzhang&CategoryDescription=Mathematics">Hanwang Zhang</a> \ (<a href="https://www.researchgate.net/scientific-contributions/Hanwang-Zhang-2144620148">https://www.researchgate.net/scientific-contributions/Hanwang-Zhang-2144620148</a>) \   (<a href="https://dl.acm.org/profile/83358928557">https://dl.acm.org/profile/83358928557</a>)</p><p>Nanyang Technological University</p></blockquote></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 计算机视觉 </category>
+          
+          <category> 论文整理 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> SGG </tag>
+            
+            <tag> CV </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>多模态融合——以KDD2020两篇论文为参考</title>
+      <link href="2020/10/18/multimodal-kdd2020/"/>
+      <url>2020/10/18/multimodal-kdd2020/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="1-前言"><a href="#1-前言" class="headerlink" title="1 前言"></a>1 前言</h2><h2 id="2-HGMF-Heterogeneous-Graph-based-Fusion-for-Multimodal-Data-with-Incompleteness"><a href="#2-HGMF-Heterogeneous-Graph-based-Fusion-for-Multimodal-Data-with-Incompleteness" class="headerlink" title="2 HGMF: Heterogeneous Graph-based Fusion for Multimodal Data with Incompleteness"></a>2 HGMF: Heterogeneous Graph-based Fusion for Multimodal Data with Incompleteness</h2><p>该论文提出了一种新的解决模态数据缺失的方法。</p><h2 id="3-Improving-Conversational-Recommender-Systems-via-Knowledge-Graph-based-Semantic-Fusion"><a href="#3-Improving-Conversational-Recommender-Systems-via-Knowledge-Graph-based-Semantic-Fusion" class="headerlink" title="3 Improving Conversational Recommender Systems via Knowledge Graph based Semantic Fusion"></a>3 Improving Conversational Recommender Systems via Knowledge Graph based Semantic Fusion</h2><h2 id="附录A：概念说明"><a href="#附录A：概念说明" class="headerlink" title="附录A：概念说明"></a>附录A：概念说明</h2><hr><p><code>sentiment analysis</code>: 情感分析</p><p><code>emotion recognition</code> ： 情绪识别</p><p><code>disease diagnosis</code>：疾病诊断</p><p><code>semi-supervised learning</code>  ： 半监督学习</p><blockquote><p>学习算法不需要人工干预，基于自身对未标记数据的利用提高模型的泛化能力</p><p>一般认为半监督学习分为纯监督学习（pure semi-supervised learning）和直推式学习（transductive learning）</p></blockquote><p><code>transductive learning framework</code>: 直推式学习框架</p><blockquote><p>直推学习是指通过观察特定的训练样本，进而预测特定测试样本的方法</p><p>直推学习和半监督学习一样，不需要人工干预，不同之处在于直推学习假设未标记的数据即最终用来测试的数据，其目的是在这些数据上具有最佳的泛化能力，而半监督学习则是学习时不知道最终的测试用例是什么，直推式学习可以看做半监督学习的一个特例</p><p>同时使用训练样本和测试样本训练模型，然后使用测试样本来测试模型效果</p></blockquote><p><code>inductive learning</code>： 归纳式学习</p><blockquote><p>从训练样本中学习规则然后应用于测试样本中，常用的监督学习就是归纳学习</p></blockquote><hr><p><code>early fusion</code>：在特征上（<code>future level</code>）上进行融合，进行不同特征的连接，输入到一个分类器模型中进行训练，融合发生在特征之间</p><p><code>late fusion</code>：也叫作<code>decision fusion</code>,指的是在预测分数（<code>score-level</code>）上进行融合，做法是训练多个模型每一个模型都会有相应的预测评分，对所有的模型结果进行<code>fusion</code>，得到最后的预测结果。在这类融合的过程中不同的特征使用不同的分类器模型进行特征分类</p><blockquote><p>相关论文：</p><ul><li>Select-additive learning: Improving generalization in multimodal sentiment analysis</li><li>Mosi: multimodal corpus of sentiment intensity and subjectivity analysis in online opinion videos</li></ul></blockquote><hr><p><code>graph-based late fusion</code>： 基于图的late fusion</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 图处理 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> multimodal </tag>
+            
+            <tag> KDD </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>SGG领域工作梳理</title>
+      <link href="2020/10/11/scene-graph-gerneration/"/>
+      <url>2020/10/11/scene-graph-gerneration/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="场景图生成概述"><a href="#场景图生成概述" class="headerlink" title="场景图生成概述"></a>场景图生成概述</h2><p>场景图概念最先提出是在2015年stanford University的Justin Johnson等人提出的，目的是实现图像的检索任务（images retrieval using scene graph），通过将传统的文本转化为场景图之后作为输入传入检索模型，在模型中使用输入的文本语义图和场景图进行匹配，从而实现对于图像的更为精确的检索。</p><p>在Johnson的论文中定义的scene graph如下：</p><blockquote><p>A scene graph is a data structure that describes the contents of a scene. A scene graph encodes object instances, attributes of objects, and relationships between objects.</p></blockquote><p>简而言之，场景图就是一种描述图片中对象实体和属性以及实体间关系的一种数据结构。具体的结构定义如下所示：</p><p><img src="/images/SGG_define.PNG"></p><p>可以看到由于场景图将图片的对象及其属性信息，乃至对象之间的关系全都纳入到结构化的图数据结构中，使得计算机对于图像的语义信息表达更加准确和完善，因此场景图的出现极大的刺激了图像处理相关技术的发展。</p><p>之后，基于场景图的工作越来越多，由于最初的数据集中的场景图由人工进行标注，同时一些新的下游任务诸如图片生成，自动标注任务等等需要实现图片场景图的自动生成，因而越来越多的工作开始集中于场景图的自动生成，该领域也越来越火热。近几年在计算机视觉领域的顶会上，有关场景图的工作越来越多，同时随着场景图生成质量的提高，相关下游任务的工作也逐渐变多起来。</p><h2 id="应用方向"><a href="#应用方向" class="headerlink" title="应用方向"></a>应用方向</h2><h2 id="领域发展情况"><a href="#领域发展情况" class="headerlink" title="领域发展情况"></a>领域发展情况</h2><h2 id="常用方法总结"><a href="#常用方法总结" class="headerlink" title="常用方法总结"></a>常用方法总结</h2><h2 id="常用指标总结"><a href="#常用指标总结" class="headerlink" title="常用指标总结"></a>常用指标总结</h2><h2 id="一点点个人思考"><a href="#一点点个人思考" class="headerlink" title="一点点个人思考"></a>一点点个人思考</h2><h2 id="参考文献列表"><a href="#参考文献列表" class="headerlink" title="参考文献列表"></a>参考文献列表</h2><p>[1] Justin Johnson. Image Retrieval using Scene Graph. CVPR 2015</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 计算机视觉 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> SGG </tag>
+            
+            <tag> CV </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>个人博客搭建[hexo+butterfly+github pages]</title>
       <link href="2020/09/30/blog-building/"/>
       <url>2020/09/30/blog-building/</url>
@@ -11,6 +94,24 @@
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>想搭建博客很久了，github站都已经建了一年多了，趁着这个国庆假期搭建一下吧。</p><h2 id="建站准备"><a href="#建站准备" class="headerlink" title="建站准备"></a>建站准备</h2><ol><li><p>下载并安装<a href="https://www.git-scm.com/downloads">git</a>和<a href="http://nodejs.cn/download/">node</a></p><p> 安装git后相关使用方法可以看一下<a href="https://www.liaoxuefeng.com/wiki/896043488029600">廖雪峰的git教程</a></p><p> nodejs安装之后需要在命令行中输入命令<code>npm -v</code> 和<code>node -v</code>,输出版本号则说明安装成功</p><p> <img src="/images/node_set.PNG"></p></li><li><p>初始化hexo环境</p><p> 输入命令<code>npm install -g hexo-cli</code> 安装hexo</p><p> 在本地文件夹下打开命令行，输入<code>hexo init &lt;blog_name&gt;</code>,初始化博客目录</p><p> 之后按一下的命令执行：</p> <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">cd &lt;blog_name&gt;</span><br><span class="line">npm install </span><br><span class="line">hexo clean </span><br><span class="line">hexo g      &#x2F;&#x2F;生成静态页面</span><br><span class="line">hexo s      &#x2F;&#x2F;在本地运行博客</span><br></pre></td></tr></table></figure><p> 然后浏览器访问<code>https://localhost:4000</code>即可访问初始页面，能够访问初始页面也说明安装成功了。</p><p> <img src="/images/hexo_page.PNG"></p></li></ol><h2 id="hexo博客美化"><a href="#hexo博客美化" class="headerlink" title="hexo博客美化"></a>hexo博客美化</h2><h3 id="主题选择"><a href="#主题选择" class="headerlink" title="主题选择"></a>主题选择</h3><p>目前的hexo的主题可选性很多，建议直接在github中搜索<code>hexo theme</code>，可以找到很多主题的仓库，在主页中可以很看一下<code>demo</code>，找到自己喜欢的主题，目前主流的主题<code>next</code>用的比较广泛，但是本站采用<a href="https://github.com/jerryc127/hexo-theme-butterfly">butterfly</a>这个主题.</p><p>主题选择之后在博客的根目录中通过<code>git clone -b master https://github.com/jerryc127/hexo -theme -butterfly .git themes/butterfly</code>命令下载到本机的<code>themes</code>目录下</p><blockquote><p>注意不要直接<code>git clone</code>到<code>themes</code>目录下，最好按照<a href="https://demo.jerryc.me/posts/21cfbf15/#%E5%AE%89%E8%A3%9D">官方文档</a>的说明进行配置。</p></blockquote><p>之后打开<code>hexo</code>根目录下的<code>_config.yml</code>文件进行站点配置。</p><h3 id=""><a href="#" class="headerlink" title=""></a></h3>]]></content>
       
       
+      <categories>
+          
+          <category> 常用技术操作备忘录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+            <tag> blog building </tag>
+            
+            <tag> butterfly </tag>
+            
+            <tag> github </tag>
+            
+        </tags>
       
     </entry>
     
