@@ -67,7 +67,7 @@
 
   <url>
     <loc>http://jacklio.site/</loc>
-    <lastmod>2020-12-18</lastmod>
+    <lastmod>2020-12-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -75,70 +75,70 @@
   
   <url>
     <loc>http://jacklio.site/tags/hexo/</loc>
-    <lastmod>2020-12-18</lastmod>
+    <lastmod>2020-12-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://jacklio.site/tags/blog-building/</loc>
-    <lastmod>2020-12-18</lastmod>
+    <lastmod>2020-12-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://jacklio.site/tags/butterfly/</loc>
-    <lastmod>2020-12-18</lastmod>
+    <lastmod>2020-12-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://jacklio.site/tags/github/</loc>
-    <lastmod>2020-12-18</lastmod>
+    <lastmod>2020-12-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://jacklio.site/tags/SGG/</loc>
-    <lastmod>2020-12-18</lastmod>
+    <lastmod>2020-12-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://jacklio.site/tags/CV/</loc>
-    <lastmod>2020-12-18</lastmod>
+    <lastmod>2020-12-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://jacklio.site/tags/multimodal/</loc>
-    <lastmod>2020-12-18</lastmod>
+    <lastmod>2020-12-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://jacklio.site/tags/KDD/</loc>
-    <lastmod>2020-12-18</lastmod>
+    <lastmod>2020-12-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://jacklio.site/tags/pytorch/</loc>
-    <lastmod>2020-12-18</lastmod>
+    <lastmod>2020-12-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://jacklio.site/tags/neural-network/</loc>
-    <lastmod>2020-12-18</lastmod>
+    <lastmod>2020-12-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -147,28 +147,28 @@
   
   <url>
     <loc>http://jacklio.site/categories/%E5%B8%B8%E7%94%A8%E6%8A%80%E6%9C%AF%E6%93%8D%E4%BD%9C%E5%A4%87%E5%BF%98%E5%BD%95/</loc>
-    <lastmod>2020-12-18</lastmod>
+    <lastmod>2020-12-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://jacklio.site/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/</loc>
-    <lastmod>2020-12-18</lastmod>
+    <lastmod>2020-12-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://jacklio.site/categories/%E5%9B%BE%E5%A4%84%E7%90%86/</loc>
-    <lastmod>2020-12-18</lastmod>
+    <lastmod>2020-12-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://jacklio.site/categories/%E8%AE%BA%E6%96%87%E6%95%B4%E7%90%86/</loc>
-    <lastmod>2020-12-18</lastmod>
+    <lastmod>2020-12-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
